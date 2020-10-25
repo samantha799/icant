@@ -1,0 +1,17 @@
+{
+  "name": "Dynamic Tragectory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Winx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "superagent": "^4.1.0"
+  }
+}
